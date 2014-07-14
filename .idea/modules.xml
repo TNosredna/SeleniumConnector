@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SeleniumConnector.iml" filepath="$PROJECT_DIR$/SeleniumConnector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/se-builder/tools/seinterpreter/sebuilder-interpreter.iml" filepath="$PROJECT_DIR$/se-builder/tools/seinterpreter/sebuilder-interpreter.iml" />
     </modules>
   </component>
 </project>
